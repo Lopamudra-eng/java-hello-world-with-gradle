@@ -87,4 +87,5 @@ exit /b 1
 :mainEnd
 if "%OS%"=="Windows_NT" endlocal
 poll scm_Lopa
+poll scm_Lopa11
 :omega
