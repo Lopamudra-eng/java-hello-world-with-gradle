@@ -90,4 +90,5 @@ poll scm_Lopa
 poll scm_Lopa11
 poll scm_Lopa123
 Build Periodically_lp
+github hook trigger_LP
 :omega
